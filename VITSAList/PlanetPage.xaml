@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="VITSAList.PlanetPage">
+    <ContentPage.Content>
+        <ListView HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" ItemsSource="{Binding Planets}">
+            <ListView.Header>
+                <Label Text="Planet Details" FontSize="Medium" BackgroundColor="Red" TextColor="White" HeightRequest="20" ></Label>
+            </ListView.Header>
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                   <TextCell Text="{Binding name}"></TextCell>
+                  
+                </DataTemplate>
+            </ListView.ItemTemplate>
+            <ListView.Footer>
+                <Label />
+            </ListView.Footer>
+        </ListView>
+    </ContentPage.Content>
+</ContentPage>

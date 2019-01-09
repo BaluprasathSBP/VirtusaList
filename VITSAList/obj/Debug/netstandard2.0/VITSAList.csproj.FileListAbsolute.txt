@@ -1,0 +1,11 @@
+/Users/bsampat/Projects/VITSAList/VITSAList/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/bsampat/Projects/VITSAList/VITSAList/obj/Debug/netstandard2.0/PlanetPage.xaml.g.cs
+/Users/bsampat/Projects/VITSAList/VITSAList/obj/Debug/netstandard2.0/VITSAList.csproj.CoreCompileInputs.cache
+/Users/bsampat/Projects/VITSAList/VITSAList/obj/Debug/netstandard2.0/VITSAList.AssemblyInfoInputs.cache
+/Users/bsampat/Projects/VITSAList/VITSAList/obj/Debug/netstandard2.0/VITSAList.AssemblyInfo.cs
+/Users/bsampat/Projects/VITSAList/VITSAList/bin/Debug/netstandard2.0/VITSAList.deps.json
+/Users/bsampat/Projects/VITSAList/VITSAList/bin/Debug/netstandard2.0/VITSAList.dll
+/Users/bsampat/Projects/VITSAList/VITSAList/bin/Debug/netstandard2.0/VITSAList.pdb
+/Users/bsampat/Projects/VITSAList/VITSAList/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/bsampat/Projects/VITSAList/VITSAList/obj/Debug/netstandard2.0/VITSAList.dll
+/Users/bsampat/Projects/VITSAList/VITSAList/obj/Debug/netstandard2.0/VITSAList.pdb
