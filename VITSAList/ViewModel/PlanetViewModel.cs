@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.ComponentModel;
@@ -41,18 +41,19 @@ namespace VITSAList
                 // Offline
                 if (Application.Current.Properties.ContainsKey("Planets"))
                 {
-                    Planets = Application.Current.Properties["Planets"] as ObservableCollection<PlanetDetail>;
+                    // Deserialize
+                    Planets = JSONSerializer<ObservableCollection<PlanetDetail>>.DeSerialize(Application.Current.Properties["Planets"] as string);
                 }
             }
 
             // Add in application properties to show it in offline, the data will be saved in device cache
             if (Application.Current.Properties.ContainsKey("Planets"))
             {
-                Application.Current.Properties["Planets"] = Planets;
+                Application.Current.Properties["Planets"] = JSONSerializer<ObservableCollection<PlanetDetail>>.Serialize(Planets); 
             }
             else
             {
-                Application.Current.Properties.Add("Planets", Planets);
+                Application.Current.Properties.Add("Planets", JSONSerializer<ObservableCollection<PlanetDetail>>.Serialize(Planets));
             }
             Application.Current.SavePropertiesAsync().ConfigureAwait(false);
             NotifyPropertyChanged("Planets");
