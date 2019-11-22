@@ -1,0 +1,65 @@
+Function=SystemNative_ConvertErrorPlatformToPal
+	/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ConvertErrorPalToPlatform
+	/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_StrErrorR
+	/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_OpenDir
+	/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetReadDirRBufferSize
+	/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadDirR
+	/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CloseDir
+	/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadLink
+	/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Stat2
+	/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LStat2
+	/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Symlink
+	/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CopyFile
+	/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEGid
+	/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEUid
+	/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Link
+	/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_MkDir
+	/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Rename
+	/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Unlink
+	/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_start_wwan
+	/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.2.2/mtouch-cache/1-Link/System.dll
+Function=mono_pmip
+Function=xamarin_dyn_objc_msgSend
+Function=xamarin_dyn_objc_msgSendSuper
+Function=xamarin_dyn_objc_msgSend_stret
+Function=xamarin_dyn_objc_msgSendSuper_stret

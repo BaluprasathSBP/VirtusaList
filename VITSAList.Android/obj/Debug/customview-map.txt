@@ -1,0 +1,42 @@
+@string/appbar_scrolling_view_behavior;/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.Android/obj/Debug/lp/20/jl/res/layout/flyoutcontent.xml
+@string/appbar_scrolling_view_behavior;/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.Android/obj/Debug/lp/20/jl/res/layout/rootlayout.xml
+adaptive-icon;obj/Debug/res/mipmap-anydpi-v26/icon.xml
+adaptive-icon;obj/Debug/res/mipmap-anydpi-v26/icon_round.xml
+alpha;/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.Android/obj/Debug/lp/20/jl/res/anim/enterfromleft.xml
+alpha;/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.Android/obj/Debug/lp/20/jl/res/anim/exittoleft.xml
+android.support.design.widget.AppBarLayout;/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.Android/obj/Debug/lp/20/jl/res/layout/flyoutcontent.xml
+android.support.design.widget.AppBarLayout;/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.Android/obj/Debug/lp/20/jl/res/layout/rootlayout.xml
+android.support.design.widget.AppBarLayout;/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.Android/obj/Debug/lp/20/jl/res/layout/shellcontent.xml
+android.support.design.widget.BottomNavigationView;/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.Android/obj/Debug/lp/20/jl/res/layout/bottomtablayout.xml
+android.support.design.widget.CoordinatorLayout;/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.Android/obj/Debug/lp/20/jl/res/layout/flyoutcontent.xml
+android.support.design.widget.CoordinatorLayout;/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.Android/obj/Debug/lp/20/jl/res/layout/rootlayout.xml
+android.support.design.widget.CoordinatorLayout;/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.Android/obj/Debug/lp/20/jl/res/layout/shellcontent.xml
+android.support.design.widget.TabLayout;/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.Android/obj/Debug/lp/20/jl/res/layout/rootlayout.xml
+android.support.design.widget.TabLayout;obj/Debug/res/layout/tabbar.xml
+android.support.v7.widget.RecyclerView;/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.Android/obj/Debug/lp/20/jl/res/layout/flyoutcontent.xml
+android.support.v7.widget.Toolbar;/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.Android/obj/Debug/lp/20/jl/res/layout/rootlayout.xml
+android.support.v7.widget.Toolbar;/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.Android/obj/Debug/lp/20/jl/res/layout/shellcontent.xml
+android.support.v7.widget.Toolbar;obj/Debug/res/layout/toolbar.xml
+background;obj/Debug/res/mipmap-anydpi-v26/icon.xml
+background;obj/Debug/res/mipmap-anydpi-v26/icon_round.xml
+color;obj/Debug/res/values/colors.xml
+foreground;obj/Debug/res/mipmap-anydpi-v26/icon.xml
+foreground;obj/Debug/res/mipmap-anydpi-v26/icon_round.xml
+FrameLayout;/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.Android/obj/Debug/lp/20/jl/res/layout/bottomtablayout.xml
+item;/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.Android/obj/Debug/lp/20/jl/res/values/styles.xml
+item;obj/Debug/res/values/styles.xml
+LinearLayout;/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.Android/obj/Debug/lp/20/jl/res/layout/bottomtablayout.xml
+resources;/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.Android/obj/Debug/lp/20/jl/res/values/styles.xml
+resources;obj/Debug/res/values/colors.xml
+resources;obj/Debug/res/values/styles.xml
+set;/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.Android/obj/Debug/lp/20/jl/res/anim/enterfromleft.xml
+set;/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.Android/obj/Debug/lp/20/jl/res/anim/enterfromright.xml
+set;/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.Android/obj/Debug/lp/20/jl/res/anim/exittoleft.xml
+set;/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.Android/obj/Debug/lp/20/jl/res/anim/exittoright.xml
+style;/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.Android/obj/Debug/lp/20/jl/res/values/styles.xml
+style;obj/Debug/res/values/styles.xml
+translate;/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.Android/obj/Debug/lp/20/jl/res/anim/enterfromleft.xml
+translate;/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.Android/obj/Debug/lp/20/jl/res/anim/enterfromright.xml
+translate;/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.Android/obj/Debug/lp/20/jl/res/anim/exittoleft.xml
+translate;/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.Android/obj/Debug/lp/20/jl/res/anim/exittoright.xml
+xamarin.forms.platform.android.appcompat.FormsViewPager;/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList.Android/obj/Debug/lp/20/jl/res/layout/rootlayout.xml

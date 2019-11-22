@@ -9,3 +9,14 @@
 /Users/bsampat/Projects/VITSAList/VITSAList/obj/Debug/netstandard2.0/XamlC.stamp
 /Users/bsampat/Projects/VITSAList/VITSAList/obj/Debug/netstandard2.0/VITSAList.dll
 /Users/bsampat/Projects/VITSAList/VITSAList/obj/Debug/netstandard2.0/VITSAList.pdb
+/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList/bin/Debug/netstandard2.0/VITSAList.deps.json
+/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList/bin/Debug/netstandard2.0/VITSAList.dll
+/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList/bin/Debug/netstandard2.0/VITSAList.pdb
+/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList/obj/Debug/netstandard2.0/VITSAList.csprojAssemblyReference.cache
+/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList/obj/Debug/netstandard2.0/PlanetPage.xaml.g.cs
+/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList/obj/Debug/netstandard2.0/VITSAList.AssemblyInfoInputs.cache
+/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList/obj/Debug/netstandard2.0/VITSAList.AssemblyInfo.cs
+/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList/obj/Debug/netstandard2.0/VITSAList.dll
+/Users/baluprasath.s/My Info/PlanetList/VirtusaList/VITSAList/obj/Debug/netstandard2.0/VITSAList.pdb
