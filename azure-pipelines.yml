@@ -28,5 +28,12 @@ steps:
   inputs:
     solutionFile: '**/*.sln'
     configuration: 'Release'
-    buildForSimulator: true
     packageApp: true
+    buildForSimulator: true
+    runNugetRestore: false
+- task: DownloadBuildArtifacts@0
+  inputs:
+    buildType: 'current'
+    downloadType: 'single'
+    itemPattern: '**.ipa'
+    downloadPath: '$(System.ArtifactsDirectory)'
